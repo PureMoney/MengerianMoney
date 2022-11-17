@@ -9,6 +9,8 @@ An open source project for building a plausible simulation of how spontaneous mo
 ## Initial Experiment Design
 Agents in this simulation are driven by mundane concern for exchanging the items they offer for what each deems of more value to her at the instant trade occurs. Some agents are also profit-driven and therefore accumulative - merchants who establish stores in the market. Merchants end up offering a lot of things in their place in the market. Merchants can accept anything for barter with anything they have in their store - which can be very many.
 
+Products or goods for sale in the market are of many kinds. Some even have a shelf-life or are perishable. Some may seem like of no survival value (trinkets) and therefore of no interest to agents who are at subsistence level of existence. However, a trinket may have the qualities of something that can possibly become a common medium of exchange.
+
 Can the market converge to a common medium of exchange even in this more realistic simulation?
 
 Each merchant has limited space in her store. She cannot accumulate much of anything with size; also, anything that is perishable has to be exchanged with somehing that is either more durable or fresher.
