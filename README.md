@@ -24,3 +24,6 @@ Agents communicate with each other to trade and also to find out what thing is m
 Merchant stores in the market allow those who prefer barter (and who would rather not engage in indirect exchange as long as they can avoid it) to continue trading, for the simple reason that the store simply accumulates goods taken in exchange for goods that barter agents need. Merchant stores therefore do not help in forming a medium of exchange, at first glance. However, stores are subject to physical constraints that do help, like the limited physical space to place merchandise in. Some commodities are also perishable and therefore have limited shelf-life, like livestock.
 
 Merchant stores are also willing to accept any medium of exchange that gets adopted by different small groups. However, even though every store has a preference, the village store always prefers that medium of exchange with the most agent users.
+
+## Synthetic Economy in the game "Diablo II"
+Lyn Alden's book "Broken Money" describes how the players of Diablo II spontaneously arrived at a different medium of exchange other than the medium of exchange imposed by the game designers. It is a valid proof of Menger's idea of how an object becomes money even when the elites imposed an unsuitable commodity.
